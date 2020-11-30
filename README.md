@@ -15,7 +15,11 @@ My name is Renato Miike and i'm a dotnet core back-end developer.
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-alves-583804176/)](https://www.linkedin.com/in/renato-alves-583804176/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/RMiikeA)](https://www.facebook.com/RMiikeA)
 [![Instagram](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rmiikea/)](https://www.instagram.com/rmiikea/)
- 
+
+![RMiike's github stats](https://github-readme-stats.vercel.app/api?username=rmiike&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmiike&layout=compact)](https://github.com/rmiike/github-readme-stats)
+
 </p>
 <!--
 **RMiike/RMiike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
