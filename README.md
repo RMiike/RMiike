@@ -9,7 +9,7 @@ My name is Renato Miike and i'm a dotnet core back-end developer.
 - ⚡ Fun fact: I went to law school to become a lawyer.
 
 - 📫 How to reach me: ...
-<p align="center">
+<h1 align="center" >
   
 [![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RMiike)](https://github.com/RMiike)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-alves-583804176/)](https://www.linkedin.com/in/renato-alves-583804176/)
@@ -20,7 +20,7 @@ My name is Renato Miike and i'm a dotnet core back-end developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmiike&layout=compact)](https://github.com/rmiike/github-readme-stats)
 
-</p>
+</h1>
 <!--
 **RMiike/RMiike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
