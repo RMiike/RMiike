@@ -19,7 +19,8 @@ My name is Renato Miike and i'm a dotnet core back-end developer.
 ![RMiike's github stats](https://github-readme-stats.vercel.app/api?username=rmiike&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmiike&layout=compact)](https://github.com/rmiike/github-readme-stats)
-
+  
+![Snake animation](https://github.com/RMiike/RMiike/blob/output/github-contribution-grid-snake.svg)
 </h1>
 <!--
 **RMiike/RMiike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
